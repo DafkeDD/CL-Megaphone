@@ -10,3 +10,5 @@ Steps:
 ```
 ["megaphone"]                      = {["name"] = "megaphone",                       ["label"] = "Police Megaphone",         ["weight"] = 1000,         ["type"] = "item",         ["image"] = "policemegaphone.png",                                                 ["unique"] = false,     ["useable"] = true,     ["shouldClose"] = true,      ["combinable"] = nil,   ["description"] = "Police Megaphone"},
 ```
+
+Sounds Script That Is Integrated In The Script Made By: Scott
