@@ -1,5 +1,7 @@
 A Simple Megaphone Script For FiveM
 
+Preview: https://streamable.com/qtr97y
+
 Steps:
 
 1 - Add The Image Provided By The Script Inside Your qb-inventory
